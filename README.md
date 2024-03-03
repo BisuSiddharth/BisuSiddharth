@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BisuBaniya
-- 👀 I’m interested in Web architect.
+- 👀 I’m interested in Web Development.
 - 🌱 I’m currently learning programming languages.
 - 💞️ I’m looking to collaborate on Senior programmers.
 - 📫 How to reach me email ID- bisusiddharth1806@gmail.com
