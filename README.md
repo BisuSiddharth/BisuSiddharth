@@ -12,7 +12,7 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
 
 ## My OS:
 
-![Ubuntu Logo](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png) Ubuntu (Linux Distribution)
+<img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="Ubuntu Logo" width="100"/> Ubuntu (Linux Distribution)
 
 ## Technologies I Work With:
 
