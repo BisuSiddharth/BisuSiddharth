@@ -8,7 +8,7 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
 
 🤝 **Looking to Collaborate On:** I'm eager to collaborate with experienced senior programmers to learn and contribute to impactful projects.
 
-📫 **Reach Me:** You can reach out to me via email at [bisusiddharth@gmail.com](mailto:bisusiddharth1806@gmail.com).
+📫 **Reach Me:** You can reach out to me via email at [bisusiddharth1806@gmail.com](mailto:bisusiddharth1806@gmail.com).
 
 ## Technologies I Work With:
 
