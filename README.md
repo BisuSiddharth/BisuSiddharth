@@ -16,7 +16,7 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
   ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5,
   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3,
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript,
-  ![Tailwind CSS](https://tailwindcss.com/_next/static/media/tailwindcss-mark.7b8c3a12a089beec84b12b3e4d3b7d65.png) Tailwind,
+  ![Tailwind CSS](https://i.imgur.com/9b9B35k.png) Tailwind,
   ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) React.js
 
 - **Backend:** 
