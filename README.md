@@ -10,6 +10,10 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
 
 📫 **Reach Me:** You can reach out to me via email at [bisusiddharth1806@gmail.com](mailto:bisusiddharth1806@gmail.com).
 
+## My OS:
+
+![Ubuntu Logo](https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png) Ubuntu (Linux Distribution)
+
 ## Technologies I Work With:
 
 - **Frontend:** 
