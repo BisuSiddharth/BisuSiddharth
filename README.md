@@ -21,7 +21,7 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
   ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3,
   ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript,
   ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) React.js
-  ![Tailwind](![React](https://img.icons8.com/ultraviolet/40/000000/react.png)) TailwindCss
+  ![Tailwind](![React]([https://img.icons8.com/ultraviolet/40/000000/react.png](https://w7.pngwing.com/pngs/293/485/png-transparent-tailwind-css-hd-logo.png))) TailwindCss
 
 - **Backend:** 
   ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js,
