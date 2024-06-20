@@ -23,8 +23,9 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
   ![React](https://img.icons8.com/ultraviolet/40/000000/react.png) React.js
 
 - **Backend:** 
-  ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js,
-  ![Django](https://img.icons8.com/color/48/000000/django.png) Django
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
 - **Programming Languages:** 
   ![Python](https://img.icons8.com/color/48/000000/python.png) Python,
