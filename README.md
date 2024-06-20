@@ -29,10 +29,10 @@ I'm a passionate web developer who loves to create elegant solutions to complex 
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-- **Programming Languages:** 
-  ![Python](https://img.icons8.com/color/48/000000/python.png) Python,
-  ![C](https://img.icons8.com/color/48/000000/c-programming.png) C,
-  ![C++](https://img.icons8.com/color/48/000000/c-plus-plus-logo.png) C++
+- **Programming Languages:** <br><br>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ## Projects:
 
